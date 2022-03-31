@@ -16,9 +16,6 @@
   "files": [
     "lib"
   ],
-  "publishConfig": {
-    "access": "public"
-  },
   "scripts": {
     "test": "echo \"Run tests from utils\""
   },
