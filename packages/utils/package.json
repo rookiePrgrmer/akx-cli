@@ -1,0 +1,25 @@
+{
+  "name": "@akx-cli/utils",
+  "version": "1.0.4",
+  "description": "akx-cli utils",
+  "keywords": [
+    "utils"
+  ],
+  "author": "rookiePrgrmer <706767763@qq.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Run tests from utils\""
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}

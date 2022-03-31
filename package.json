@@ -1,0 +1,16 @@
+{
+  "name": "akx-cli",
+  "version": "1.0.4",
+  "description": "i, akx, create the first my cli.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli"
+  ],
+  "author": "ankx",
+  "license": "ISC",
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  }
+}
