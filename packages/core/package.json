@@ -1,6 +1,9 @@
 {
   "name": "@akx-cli/core",
   "version": "1.0.7",
+  "bin": {
+    "akx-cli": "bin/index.js"
+  },
   "description": "akx-cli core",
   "keywords": [
     "core"
